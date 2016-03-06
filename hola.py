@@ -1,4 +1,6 @@
-#!/usr/local/bin/python3
-
-print('hello')
-k = input()
+import matplotlib
+import os
+print('rebirth')
+print('os.ver')
+import sys
+print(sys.version_info)

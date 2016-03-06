@@ -1,0 +1,214 @@
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Keith Urban - John Cougar, John Deere, John 3_16.lrc
+8.0 9.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/James Newton Howard - The Hanging Tree.lrc
+4.0 9.25
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Maroon 5 - Sugar.lrc
+17.25 8.875
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Hozier - Take Me To Church.lrc
+11.75 8.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Blake Shelton - Sangria.lrc
+4.25 4.75
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Zac Brown Band - Homegrown.lrc
+9.625 4.875
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Rachel Platten - Fight Song.lrc
+9.25 6.125
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Rich Homie Quan - Flex (Ooh, Ooh, Ooh).lrc
+10.875 10.125
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Natalie La Rose - Somebody (Feat. Jeremih).lrc
+2.75 6.875
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Tove Lo - Talking Body.lrc
+13.875 1.75
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Lilly Wood & The Prick and Robin Schulz - Prayer In C (Robin Schulz Radio Edit).lrc
+7.5 6.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Ariana Grande - One Last Time.lrc
+10.375 4.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Taylor Swift - Style.lrc
+6.75 9.875
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Chris Brown X Tyga - Ayo.lrc
+10.125 15.75
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Ed Sheeran - Don't.lrc
+15.125 12.625
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/The Weeknd - Can't Feel My Face.lrc
+20.5 4.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Usher - I Don't Mind (featuring Juicy J).lrc
+8.75 4.75
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Calvin Harris & Disciples - How Deep Is Your Love (Chris Lake Remix).lrc
+26.375 7.125
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Fetty Wap - Trap Queen.lrc
+6.875 8.75
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Big Sean - Blessings (Feat. Drake & Kanye West) [Extended Version].lrc
+20.0 16.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Drake - Back To Back (Meek Mill Diss).lrc
+10.75 10.25
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Maroon 5 - Animals.lrc
+4.125 22.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Mr. Probz - Waves (Robin Schulz Radio Edit).lrc
+6.25 6.875
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Ariana Grande - Love Me Harder (feat. The Weeknd).lrc
+34.875 6.5
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Tove Lo - Habits.lrc
+5.375 10.0
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Nick Jonas - Jealous.lrc
+11.625 13.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Future - Where Ya At (feat. Drake).lrc
+7.125 15.75
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/The Weeknd - The Hills.lrc
+12.625 11.875
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Justin Bieber - What Do You Mean.lrc
+11.625 3.75
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Nicki Minaj - Only (feat. Drake, Lil Wayne & Chris Brown).lrc
+14.625 31.25
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Shawn Mendes - Stitches.lrc
+6.625 12.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Luke Bryan - Strip It Down.lrc
+8.625 8.75
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Trey Songz - Slow Motion.lrc
+2.0 2.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Taylor Swift - Blank Space.lrc
+12.375 15.5
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/One Direction - Drag Me Down.lrc
+10.625 9.625
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Thomas Rhett - Crash And Burn.lrc
+3.75 2.0
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/George Ezra - Budapest.lrc
+10.0 6.0
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/SAM HUNT - Take Your Time.lrc
+11.875 11.625
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Flo Rida - GDFR (feat. Sage The Gemini and Lookas).lrc
+3.375 6.25
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Sam Hunt - House Party.lrc
+5.0 8.125
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Wiz Khalifa - See You Again.lrc
+6.875 6.5
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Charlie Puth - Marvin Gaye (feat. Meghan Trainor).lrc
+7.375 2.75
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Ellie Goulding - Love Me Like You Do (From _Fifty Shades of Grey_).lrc
+15.25 4.25
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Jessie J - Bang Bang (feat. Ariana Grande & Nicki Minaj).lrc
+47.125 18.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Sia - Elastic Heart.lrc
+37.125 33.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Meghan Trainor - Like I'm Gonna Lose You.lrc
+31.5 30.5
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Selena Gomez - The Heart Wants What It Wants.lrc
+40.875 33.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Ed Sheeran - Thinking Out Loud.lrc
+34.875 22.125
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Ne-Yo - She Knows (feat. Juicy J).lrc
+9.875 10.25
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/O.T. Genasis - CoCo.lrc
+13.875 1.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Jack Ü - Where Are Ü Now (Feat. Justin Bieber).lrc
+6.5 12.0
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Meghan Trainor - Lips Are Movin.lrc
+4.5 11.125
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Walk The Moon - Shut Up and Dance.lrc
+5.375 2.0
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Meghan Trainor - Dear Future Husband.lrc
+10.0 8.5
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Demi Lovato - Cool for the Summer.lrc
+8.375 10.5
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Taylor Swift - Wildest Dreams.lrc
+9.125 4.25
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Rae Sremmurd - No Type.lrc
+7.375 9.75
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Omarion - Post To Be (feat. Chris Brown & Jhene Aiko).lrc
+11.375 8.0
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Beyoncé - 7_11.lrc
+5.375 8.75
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Jason Derulo - Want to Want Me.lrc
+13.625 4.5
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Andy Grammer - Honey, I'm Good.lrc
+18.0 18.0
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Drake - Hotline Bling.lrc
+15.0 8.5
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Jidenna - Classic Man (Feat. Roman Gianarthur).lrc
+11.0 8.0
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Elle King - Ex's & Oh's.lrc
+7.0 6.0
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/One Direction - Night Changes.lrc
+6.0 8.5
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Fall Out Boy - Uma Thurman.lrc
+12.5 6.75
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/AlunaGeorge - You Know You Like It.lrc
+8.5 6.875
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Fetty Wap - My Way (feat. Monty).lrc
+6.875 6.25
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Nicki Minaj - Truffle Butter (Feat. Drake & Lil Wayne).lrc
+10.375 13.75
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Chris Janson - Buy Me A Boat.lrc
+6.875 2.25
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Kelly Clarkson - Heartbeat Song.lrc
+4.875 1.625
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Sam Smith - Lay Me Down.lrc
+3.375 4.875
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Nick Jonas - Chains.lrc
+11.5 6.125
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Fetty Wap - 679 (Feat. Remy Boyz).lrc
+9.75 6.25
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Vance Joy - Riptide.lrc
+9.0 4.5
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Zedd - I Want You to Know (featuring Selena Gomez).lrc
+3.0 2.875
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Taylor Swift - Shake It Off.lrc
+5.0 13.25
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Meek Mill - All Eyes On You (feat. Chris Brown & Nicki Minaj).lrc
+17.75 14.75
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Alessia Cara - Here.lrc
+11.0 8.0
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Ed Sheeran - Photograph.lrc
+11.375 9.875
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Calvin Harris - Outside (feat. Ellie Goulding).lrc
+2.125 2.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Rihanna - Bitch Better Have My Money.lrc
+25.0 25.0
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Kid Ink - Be Real (Feat. Dej Loaf).lrc
+5.0 8.125
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Sia - Chandelier.lrc
+6.5 6.0
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Little Big Town - Girl Crush.lrc
+4.125 5.625
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Sam Smith - Stay With Me.lrc
+9.125 4.875
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/X Ambassadors - Renegades.lrc
+2.625 3.125
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Fall Out Boy - Centuries.lrc
+5.0 7.5
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Fifth Harmony - Worth It (feat. Kid Ink).lrc
+15.75 7.875
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Taylor Swift - Bad Blood.lrc
+13.0 21.25
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Ella Henderson - Ghost.lrc
+9.358000000000002 14.017000000000003
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/The Weeknd - Earned It.lrc
+8.375 3.75
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/T-Wayne - Nasty Freestyle.lrc
+7.375 7.125
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Sam Smith - I'm Not The Only One.lrc
+6.431 12.068999999999999
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Luke Bryan - Kick the Dust Up.lrc
+5.875 3.5
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Imagine Dragons - I Bet My Life.lrc
+2.25 4.625
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Mark Ronson - Uptown Funk (feat. Bruno Mars).lrc
+16.375 7.125
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Major Lazer - Lean on.lrc
+7.375 8.0
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Fetty Wap - Again.lrc
+12.0 15.125
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Macklemore & Ryan Lewis - Downtown.lrc
+17.875 12.125
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Meghan Trainor - All About That Bass.lrc
+5.0 4.0
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/David Guetta - Hey Mama ( ft Nicki Minaj, Bebe Rexha & Afrojack (Official Video).lrc
+30.75 11.125
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Selena Gomez - Good For You (feat. A$AP Rocky).lrc
+16.375 6.625
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/R. City - Locked Away (feat. Adam Levine).lrc
+22.625 8.5
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Omi - Cheerleader (Felix Jaehn Remix Radio Edit).lrc
+11.0 5.375
+/home/vivek/Workspace/Sentiword On Lyrics/Extracted/Silento - Watch Me (Whip_Nae Nae).lrc
+8.0 8.5
+[8.0, 4.0, 17.25, 11.75, 4.25, 9.625, 9.25, 10.875, 2.75, 13.875, 7.5, 10.375, 6.75, 10.125, 15.125, 20.5, 8.75, 26.375, 6.875, 20.0, 10.75, 4.125, 6.25, 34.875, 5.375, 11.625, 7.125, 12.625, 11.625, 14.625, 6.625, 8.625, 2.0, 12.375, 10.625, 3.75, 10.0, 11.875, 3.375, 5.0, 6.875, 7.375, 15.25, 47.125, 37.125, 31.5, 40.875, 34.875, 9.875, 13.875, 6.5, 4.5, 5.375, 10.0, 8.375, 9.125, 7.375, 11.375, 5.375, 13.625, 18.0, 15.0, 11.0, 7.0, 6.0, 12.5, 8.5, 6.875, 10.375, 6.875, 4.875, 3.375, 11.5, 9.75, 9.0, 3.0, 5.0, 17.75, 11.0, 11.375, 2.125, 25.0, 5.0, 6.5, 4.125, 9.125, 2.625, 5.0, 15.75, 13.0, 9.358000000000002, 8.375, 7.375, 6.431, 5.875, 2.25, 16.375, 7.375, 12.0, 17.875, 5.0, 30.75, 16.375, 22.625, 11.0, 8.0]
+[-9.375, -9.25, -8.875, -8.375, -4.75, -4.875, -6.125, -10.125, -6.875, -1.75, -6.375, -4.375, -9.875, -15.75, -12.625, -4.375, -4.75, -7.125, -8.75, -16.375, -10.25, -22.375, -6.875, -6.5, -10.0, -13.375, -15.75, -11.875, -3.75, -31.25, -12.375, -8.75, -2.375, -15.5, -9.625, -2.0, -6.0, -11.625, -6.25, -8.125, -6.5, -2.75, -4.25, -18.375, -33.375, -30.5, -33.375, -22.125, -10.25, -1.375, -12.0, -11.125, -2.0, -8.5, -10.5, -4.25, -9.75, -8.0, -8.75, -4.5, -18.0, -8.5, -8.0, -6.0, -8.5, -6.75, -6.875, -6.25, -13.75, -2.25, -1.625, -4.875, -6.125, -6.25, -4.5, -2.875, -13.25, -14.75, -8.0, -9.875, -2.375, -25.0, -8.125, -6.0, -5.625, -4.875, -3.125, -7.5, -7.875, -21.25, -14.017000000000003, -3.75, -7.125, -12.068999999999999, -3.5, -4.625, -7.125, -8.0, -15.125, -12.125, -4.0, -11.125, -6.625, -8.5, -5.375, -8.5]
