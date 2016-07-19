@@ -1,0 +1,9 @@
+{% for result in page.object_list %}
+    {{ result.object.title }}
+    {{ result.object.keywords }}
+    {% for text in result.highlighted.text %}
+            <b>{{ text }}</b>
+    {% endfor %}
+{% endfor %}
+<br>
+keywords:

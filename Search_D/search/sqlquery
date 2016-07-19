@@ -1,0 +1,46 @@
+INSERT INTO new_solr_data( category, sub_category, sub_sub_category, slug, keywords, description ) 
+SELECT c2.category_name AS category, c1.category_name AS sub_category, c.category_name AS sub_sub_category, c.slug, c.keywords, c.category_description AS description
+FROM category AS c
+JOIN category AS c1 ON c1.category_id = c.parent_category_id
+JOIN category AS c2 ON c2.category_id = c1.parent_category_id
+ORDER BY c2.level
+
+INSERT INTO new_solr_data( category, sub_category, sub_sub_category, slug, keywords, description ) 
+SELECT c1.category_name AS category, c.category_name AS sub_category,  "NULL" AS sub_sub_category, c.slug, c.keywords, c.category_description AS description
+FROM category AS c
+JOIN category AS c1 ON c1.category_id = c.parent_category_id
+WHERE c1.level =3
+ORDER BY c1.level
+
+INSERT INTO new_solr_data( category, sub_category, sub_sub_category, title, brand,slug, keywords, description )
+select business_unit as category, sub_category, sub_sub_category, title, brand, slug, keywords, description from base_product, category INNER JOIN category as c1 on c1.category_id=category.parent_category_id join category as c2 on c2.category_id=c1.parent_category_id order by c2.level
+
+
+insert into new_solr_data(id,thumbnail_image_url, category, sub_category, sub_sub_category,title, brand, slug, keywords, description, variant_description, identifier) 
+select b.base_product_id,sp.thumb_url as thumbnail_image_url, b.business_unit as category, b.sub_category, b.sub_sub_category, b.title, b.brand, b.slug, b.keywords, b.description, GROUP_CONCAT('|', pcam.text_value) as variant_description, 'products' as identifier from base_product as b left join subscribed_product as sp on sp.base_product_id=b.base_product_id join Products_productcategoryattributesmapping as pcam on pcam.subscribed_product_id=sp.subscribed_product_id join Products_categoryattributesmapping as cam on cam.id=pcam.category_attribute_id group by b.base_product_id;
+
+insert into new_solr_data(id,thumbnail_image_url, category, sub_category, sub_sub_category,title, brand, slug, keywords, description, variant_description, identifier) 
+select b.base_product_id,sp.thumb_url as thumbnail_image_url, b.business_unit as category, b.sub_category, b.sub_sub_category, b.title, b.brand, b.slug, b.keywords, b.description, GROUP_CONCAT('|', pcam.text_value) as variant_description, 'products' as identifier from base_product as b left join subscribed_product as sp on sp.base_product_id=b.base_product_id left join Products_productcategoryattributesmapping as pcam on pcam.subscribed_product_id=sp.subscribed_product_id left join Products_categoryattributesmapping as cam on cam.id=pcam.category_attribute_id group by b.base_product_id;
+
+insert into new_solr_data(category, sub_category, sub_sub_category, title, slug,keywords, description, identifier) select c2.category_name as category, c1.category_name as sub_category, c.category_name as sub_sub_category, c2.category_name as title, c.slug, c.keywords, c.category_description as description, "category" as identifier from category as c join category as c1 on c1.category_id=c.parent_category_id join category as c2 on c2.category_id=c1.parent_category_id order by c2.level;
+
+insert into new_solr_data(category, sub_category, sub_sub_category, title, slug, keywords, description, identifier) select c1.category_name as category, c.category_name as sub_category, "NULL" as sub_sub_category, c1.category_name as title,c.slug, c.keywords, c.category_description as description,"sub_category" as identifier from category as c join category as c1 on c1.category_id=c.parent_category_id where c1.level=3 order by c1.level;
+
+insert into solr_data(category, sub_category, sub_sub_category, title, slug,keywords, description, identifier) select c.category_name as category, "NULL" as "sub_category", "NULL" as "sub_sub_category", c.category_name as title, c.slug, c.keywords, c.category_description as description, "sub_sub_category" as identifier from category as c where c.level=4 order by c.level;
+
+insert into solr_data(brand, category, sub_category, sub_sub_category, title, slug, brand, keywords, description, identifier) select brand, business_unit as "category", sub_category, sub_sub_category, "brand" as identifier from base_product where business_unit is not null group by brand, business_unit, sub_category,sub_sub_category;
+
+# Working
+insert into new_solr_data(id,thumbnail_image_url, category, sub_category, sub_sub_category,title, brand, slug, keywords, description, variant_description, identifier) 
+select b.base_product_id,sp.thumb_url as thumbnail_image_url, b.business_unit as category, b.sub_category, b.sub_sub_category, b.title, b.brand, b.slug, b.keywords, b.description, GROUP_CONCAT(';', pcam.text_value) as variant_description, 'products' as identifier from base_product as b join subscribed_product as sp on sp.base_product_id=b.base_product_id left join Products_productcategoryattributesmapping as pcam on pcam.subscribed_product_id=sp.subscribed_product_id left join Products_categoryattributesmapping as cam on cam.id=pcam.category_attribute_id group by b.base_product_id;
+
+insert into new_solr_data(category,title,sub_category, sub_sub_category,slug,keywords,description,identifier)
+select c.category_name as category,c.category_name as title, "NULL" as "sub_category", "NULL" as "subsubcategory", c.slug, c.keywords, c.category_description as description, "category" as identifier from category as c where c.level=2 order by c.level;
+
+insert into new_solr_data(title,category,sub_category, sub_sub_category,slug,keywords,description,identifier)
+select c.category_name as title, c1.category_name as category, c.category_name as sub_category, "NULL" as sub_sub_category, c.slug, c.keywords, c.category_description as description, "category" as identifier from category as c join category as c1 on c1.category_id=c.parent_category_id where c.level=3 order by c.level;
+
+insert into new_solr_data(title,category,sub_category, sub_sub_category,slug,keywords,description,identifier)
+select c.category_name as title, c.category_name as category, c1.category_name as sub_category, c.category_name as sub_sub_category, c.slug, c.keywords, c.category_description as description, "category" as identifier from category as c join category as c1 on c1.category_id=c.parent_category_id join category as c2 on c2.category_id=c1.parent_category_id where c.level=4 order by c2.level;
+
+insert into new_solr_data(brand ,category, sub_category, sub_sub_category, title,identifier) select brand, business_unit as "category", sub_category, sub_sub_category, brand as title, "brand" as identifier from base_product where business_unit is not null group by brand, business_unit, sub_category,sub_sub_category;
