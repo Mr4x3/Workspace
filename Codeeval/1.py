@@ -1,28 +1,14 @@
-def word(x,y,z):
-    sol=[]
-    for i in range(1,z+1):
-        
-        if i%x==0:
-            if i%y==0:
-                s='FB'
-                sol.append(s)
-            else:
-                s='F'
-                sol.append(s)
-        elif i%y==0:
-            sol.append('B')
-        else:
-            sol.append(i)
-    return sol
-
+#!/usr/local/bin/python3
 import sys
 
 with open(sys.argv[1], 'r') as input:
-    test_cases = input.read().strip().splitlines()
-
-for test in test_cases:
-    fizz, buzz, limit = (int(i) for i in test.split())
-    z=word(fizz, buzz, limit)
-    for i in z:
-        print(i,end=' ')
-    print('')
+    line_list = input.read().strip().splitlines()
+k=[]
+for line in line_list:
+    rt=line.split('=')
+    pakg=rt[0]
+    k.append(pakg)
+with open('installed.txt','w') as f:
+    for i in k:
+        f.write(i)
+        f.write('\n')

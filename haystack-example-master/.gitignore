@@ -1,0 +1,5 @@
+env
+*.pyc
+.idea
+conf/solr/data
+haystack_example/mydb.sqlite
