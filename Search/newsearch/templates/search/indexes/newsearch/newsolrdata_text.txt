@@ -1,1 +1,0 @@
-{{ object.title }} {{ object.keywords }} {{ object.category }} {{ object.sub_category }} {{ object.sub_sub_category}} {{ object.slug }} {{ object.brand }} {{ object.description }} {{ object.identifier }} {{ object.thumbnail_image_url }}
