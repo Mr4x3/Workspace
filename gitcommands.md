@@ -1,7 +1,28 @@
-Get Acquainted With Git[*](#this-just-covers-some-basic-git-commands-doesnt-cover-remote-repos-push-or-pull)
+__Author__ ="Mr.4x3"
+These Are GitHub Commands Which are Used By Me on Daily Basic [You May Also be using them on daily basis But its My Repo So bare with me :)]
 =======================
 
-###Basic Commands
+### Very Very Common Git Commands
+I Start With creating a New Project at GitHub Like [Create A New Project] and its url May be like "http://github.com/Mr4x3/NewProject"
+
+So just Init it with maybe python readme or other Or Next Next Next>>>
+
+use 
+```git clone http://github.com/Mr4x3/NewProject```
+then 
+```cd NewProject```
+Made some changes to files and
+
+```git add .```
+```git commit -m "Write Here Whatever I Like```
+```git push```
+
+Thats All Folks But If You Want Other things with git Here are the Very Common commands
+
+
+===========================
+### Very Common Git Commands
+
 ```git init```
 Creates a new Git repository in the current directory. In addition, a directory named **.git** is added to the folder. This folder holds all the Git history and information for the repo. To get rid of the repo, just delete the .git folder
 

@@ -1,24 +1,17 @@
-<<<<<<< HEAD
 #Other Files
 .pyc
 .bak
 .sql
 .log
 
-
-=======
->>>>>>> 4f1928141e45ef5ab7053069420791c8c94a038e
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-<<<<<<< HEAD
-
 *.patch.sql
 *.sql
 =======
->>>>>>> 4f1928141e45ef5ab7053069420791c8c94a038e
 # C extensions
 *.so
 
@@ -67,7 +60,6 @@ coverage.xml
 
 # Django stuff:
 *.log
-<<<<<<< HEAD
 =======
 local_settings.py
 
@@ -77,7 +69,6 @@ instance/
 
 # Scrapy stuff:
 .scrapy
->>>>>>> 4f1928141e45ef5ab7053069420791c8c94a038e
 
 # Sphinx documentation
 docs/_build/
@@ -85,7 +76,6 @@ docs/_build/
 # PyBuilder
 target/
 
-<<<<<<< HEAD
 #Ipython Notebook
 .ipynb_checkpoints
 =======
@@ -110,4 +100,3 @@ ENV/
 
 # Rope project settings
 .ropeproject
->>>>>>> 4f1928141e45ef5ab7053069420791c8c94a038e
