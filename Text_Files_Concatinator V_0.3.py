@@ -1,6 +1,6 @@
 """ Often We Have Many File Of text and we want them all in to one file,
 This is the Thing You Were Looking For"""
-#Program Released Under BSD Licence
+# Program Released Under BSD Licence
 #Created By Mr.4x3 And May Be Distributed Any Further But With Some Credit
 #If Any Bug Found Please Mail At: Mr4x3@doyl.in
 #So To Use It Just Put This File File In The Directry Where You Want To
